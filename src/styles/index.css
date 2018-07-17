@@ -1,0 +1,16 @@
+body {
+  background: url('../assets/wall.jpg');
+  font-family: sans-serif;
+  background-repeat: no-repeat;
+  background-attachment: fixed;;
+}
+
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-top: 100px;
+}
+
+.list-group{
+  padding: 5px !important;
+}

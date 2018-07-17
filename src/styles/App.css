@@ -1,0 +1,14 @@
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 170px;
+}
+
+.container{
+  margin-top: 100px;
+}
+
+#alert{
+  text-align: center;
+}
